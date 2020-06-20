@@ -1,0 +1,23 @@
+4 Command-line invoker            - java
+6 Back Again?                     - loop
+8 Can't go both ways              - branch
+9 Acronym for your laptop's power - dc
+12 number variable type           - int
+13 Acronym for a chip             - ic
+14 say something                  - systemOutPrint
+18 quite a crew of characters     - string
+19 announce a new class or method - declare
+21 what's prompt good for?        - command
+
+1 not an integer (or __ your boat) - float
+2 come back empty-hanedd           - void 
+3 open house                       - public
+5 thing's holders                  - arrays
+7 until attitudes improve          - while
+10 source code consumer            - compiler
+11 can't pin it down               - variable
+13 dept. of LAN jockeys            - it
+15 shocking modifier               - static
+16 just gotta have one             - main
+17 how to get tings done           - method
+20 byte code consumer              - jvm

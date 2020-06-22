@@ -1,0 +1,7 @@
+instance variable:
+- channel
+- volume
+method
+- setChannel()
+- setVolume()
+- play()
